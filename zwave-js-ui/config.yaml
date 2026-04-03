@@ -1,6 +1,6 @@
 ---
 name: Z-Wave JS UI Front Yard
-version: dev
+version: 7.1.0
 slug: zwavejs2mqtt_frontyard
 description: Fully configurable Z-Wave JS gateway and control panel
 url: https://github.com/hassio-addons/app-zwave-js-ui
